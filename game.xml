@@ -2,7 +2,7 @@
 <manifest>
   <remote  name="github"
            fetch="https://github.com/ccTnT/" />
-  <default revision="master"
+  <default revision="steam"
            remote="github" sync-j="2" />
-  <project path="data" name="test" revision="master" />
+  <project path="data" name="test" revision="steam" />
 </manifest>
